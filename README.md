@@ -1,7 +1,7 @@
 # MyMealApp
 
-It is a mobile Flutter project to help me organize the time bettween my meals.
-This will grow as I add more functionality around organizing my deals.
+It is a mobile Flutter project to help me organize the time between my meals.
+This will grow as I add more functionality around organizing my meals.
 
 please the see the walk through Video -[Youtube (Atlanta Dev Talk)] (https://youtu.be/8hm71QNrq-U)
 

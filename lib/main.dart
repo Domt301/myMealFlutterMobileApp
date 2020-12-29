@@ -18,7 +18,7 @@ class MainPage extends StatelessWidget {
         primaryColor: Colors.blueGrey,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: const MealPlanningPage(title: 'Beast! Are you hungery yet?'),
+      home: const MealPlanningPage(title: 'Beast! Are you hungry yet?'),
     );
   }
 }
